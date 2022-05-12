@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xieyi888
+- 👋 Hi, I’m @xieyi
 - 👀 I’m interested in bigdata
 - 🌱 I’m currently learning flink
 - 💞️ I’m looking to collaborate on flink
